@@ -1,0 +1,1 @@
+The snake is controlled by the arrows.
